@@ -1,0 +1,2 @@
+| SiteName      |   Partner    | Page No     | Page Ratio  |  Api Ratio | Difference |
+| :------------ |--------------| :-----------| ----------: |------------|------------|
